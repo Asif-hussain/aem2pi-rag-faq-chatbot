@@ -1,0 +1,35 @@
+[
+  {
+    "user_question": "How many leave days do I get per year?",
+    "system_answer": "You are entitled to 20 paid annual leave days per year. Leave requests should be submitted through the HR portal at least 7 days in advance for planned leaves. Emergency leaves can be reported by email to HR and must be logged in the portal within 48 hours. You can carry forward up to 5 unused leave days to the next fiscal year, but they must be used within the first quarter.",
+    "chunks_related": [
+      "Our leave policy aims to offer flexibility while ensuring fairness and operational continuity. Employees are entitled to 20 paid annual leave days per year. Requests should be submitted through the HR portal at least 7 days in advance for planned leaves. Emergency leaves can be reported by email to HR and logged in the portal within 48 hours. Leave balances are displayed on each employee's dashboard and updated after payroll runs.",
+      "Carry forward rules permit up to 5 unused leave days to be carried into the next fiscal year, but they must be used within the first quarter. Managers may approve additional carry-forward on a case-by-case basis."
+    ]
+  },
+  {
+    "user_question": "How can I reset my password?",
+    "system_answer": "To reset your password, use the 'Forgot Password' link on the login page. This will trigger an email containing a secure one-time link that is valid for 30 minutes. If you experience account lockouts or notice suspicious activity on your account, you should contact IT Security immediately.",
+    "chunks_related": [
+      "All employees must use the company Single Sign-On (SSO) to access internal applications. Passwords must be at least 12 characters with a mix of upper/lowercase, digits, and symbols. Multi-factor authentication (MFA) is mandatory for all admin accounts and recommended for all employees. If an employee forgets their password, they can use the 'Forgot Password' link on the login page, which triggers an email with a secure one-time link valid for 30 minutes. For account lockouts or suspicious activity, employees should contact IT Security immediately."
+    ]
+  },
+  {
+    "user_question": "What is the remote work policy?",
+    "system_answer": "The company supports flexible work arrangements where employees may work remotely up to three days per week, subject to manager approval. When working remotely, you must maintain secure home networks and comply with the company's security guidelines. Remote work days should be recorded in the team calendar to help with coordination. If you need full-time remote work or are planning to relocate, this requires HR and legal sign-off due to tax and benefits implications.",
+    "chunks_related": [
+      "The company supports flexible work arrangements. Employees may work remotely up to three days per week, subject to manager approval. Remote work requires that employees maintain secure home networks and comply with the company's security guidelines. Remote days should be recorded in the team calendar to assist coordination. Full-time remote work or relocation requires HR and legal sign-off for tax and benefits implications."
+    ]
+  },
+  {
+    "user_question": "what is the resign policy?",
+    "system_answer": "Offboarding must follow the standard checklist: revoke access, collect equipment, and conduct an exit interview. Termination cases require HR and Legal approvals and should be processed within 3 business days.",
+    "chunks_related": [
+      "Company HR & Product FAQ   Welcome to the company internal FAQ. This document covers key policies, procedures, and feature explanations relevant to employees and support staff. The goal is to provide a one-stop place for answers about leaves, payroll, remote work, account management, product features, security practices, and escalation paths. 1. Leave and Attendance Policy Our leave policy aims to offer flexibility while ensuring fairness and operational continuity. Employees are entitled to 20 paid annual leave days per year. Requests should be submitted through the HR portal at least 7 days in advance for planned leaves.",
+      "Sensitive PII data collection is minimized; where PII must be collected, it's encrypted at rest and access-controlled. Data retention policies specify that logs are kept for 1 year and archived for up to 7 years as needed for compliance. 7. Onboarding & Offboarding Onboarding includes account setup, an equipment checklist, and mandatory training modules on security and code of conduct. Offboarding must follow the standard checklist: revoke access, collect equipment, and conduct an exit interview. Termination cases require HR and Legal approvals and should be processed within 3 business days. 8.",
+      "Emergency leaves can be reported by email to HR and logged in the portal within 48 hours. Leave balances are displayed on each employee's dashboard and updated after payroll runs. Carry forward rules permit up to 5 unused leave days to be carried into the next fiscal year, but they must be used within the first quarter. Managers may approve additional carry-forward on a case-by-case basis. 2. Work-from-Home and Remote Work The company supports flexible work arrangements. Employees may work remotely up to three days per week, subject to manager approval.",
+      "Employees who fail to complete mandatory training within 30 days of onboarding or annual reminders may face account access restrictions until training is completed. 13. Employee Benefits and Perks Full-time employees receive a comprehensive benefits package that includes health insurance, dental and vision coverage, life insurance, and a retirement savings plan with a 4% company match. Health insurance enrollment occurs during onboarding or the annual open enrollment period each November. Changes to benefits outside of these windows require a qualifying life event, such as marriage, birth of a child, or loss of other coverage.",
+      "Common How-tos - How to invite a new user: Admins -> Users -> Invite -> Fill email and role. - How to export a report: Dashboard -> Reports -> Select filters -> Export -> Choose CSV or PDF. - How to reset a password: Account Settings -> Reset Password -> Follow email link. 11. Performance Reviews and Compensation Performance reviews are conducted annually at the end of each fiscal year. Employees receive a self-assessment form two weeks before their review meeting with their manager. Reviews are based on goal achievement, teamwork, technical skills, and alignment with company values."
+    ]
+  }
+]

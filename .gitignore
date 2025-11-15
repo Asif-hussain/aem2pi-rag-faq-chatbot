@@ -1,0 +1,54 @@
+# Environment variables
+.env
+
+# Python virtual environments
+venv/
+env/
+AEM2-ASSIGNMENT/
+*.egg-info/
+.Python
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+
+# Generated data files (these are created by build_index.py)
+data/embeddings.npy
+data/chunks.pkl
+data/chunks.json
+data/faq_index.faiss
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+tmp/
+temp/
+
