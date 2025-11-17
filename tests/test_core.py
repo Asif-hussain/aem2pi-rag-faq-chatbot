@@ -112,13 +112,13 @@ if __name__ == "__main__":
         if USE_LOCAL_MODEL:
             from src.local_model import check_ollama_running
             if not check_ollama_running():
-                print("❌ Ollama server is not running!")
+                print("Ollama server is not running!")
                 print("💡 Start Ollama with: 'ollama serve' or 'docker-compose up -d'")
                 sys.exit(1)
             print("✅ Ollama server is running\n")
         else:
             if not os.getenv("OPENROUTER_API_KEY"):
-                print("❌ OPENROUTER_API_KEY not set in .env")
+                print("OPENROUTER_API_KEY not set in .env")
                 sys.exit(1)
             print("✅ OpenRouter API key configured\n")
 
@@ -134,8 +134,8 @@ if __name__ == "__main__":
         print("✅ All tests passed!")
 
     except AssertionError as e:
-        print(f"\n❌ Test failed: {e}")
+        print(f"\n Test failed: {e}")
         sys.exit(1)
     except Exception as e:
-        print(f"\n❌ Error running tests: {e}")
+        print(f"\n Error running tests: {e}")
         sys.exit(1)
